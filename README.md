@@ -7,7 +7,7 @@ WickedWhims is a mod for The Sims 4 that expands the game's relationship, attrac
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/WickedWhims-Sims-4/.github/releases)
 
 ---
 
